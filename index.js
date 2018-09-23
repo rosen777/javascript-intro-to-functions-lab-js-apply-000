@@ -6,18 +6,15 @@ function shout(string) {
   return string.toUpperCase() 
 }
 
-<<<<<<< HEAD
 /*
 * Takes a string as an argument and returns it in all lowercase: 'Hello' to "hello"
 */
 
-=======
->>>>>>> 0740a6584af8df78f424d6b51a1f62536e01ec74
 function whisper(string) {
   return string.toLowerCase()
 }
 
-<<<<<<< HEAD
+
 /*
 * Takes a string as an argument and logs it in all caps: 'hello' to "Hello"
 */
@@ -49,8 +46,4 @@ function sayHiToGrandma(string) {
   } else if (string === "I love you, Grandma.") {
     return "I love you, too."
   }
-=======
-function sayHiToGrandma(string) {
-  
->>>>>>> 0740a6584af8df78f424d6b51a1f62536e01ec74
 }
